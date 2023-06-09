@@ -1,0 +1,2 @@
+***ALX school is COOL***
+ #READY_FOR_HARD_THINGS
